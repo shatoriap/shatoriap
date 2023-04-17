@@ -3,8 +3,8 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>Building a PC from Scratch</b>
-  - [Building my First Gaming/Editing PC](https://youtu.be/_RkuOBcwO_k)
+- <b>Hardware and Software Installation</b>
+  - [Building my First Gaming/Editing PC](https://github.com/shatoriap/gamingpcsetup)(https://youtu.be/_RkuOBcwO_k)
 - <b>New Section</b>
   - [Project Name](Github documentation link)<br>
 
