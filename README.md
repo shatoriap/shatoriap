@@ -4,9 +4,9 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Hardware and Software Installation</b>
-  - [Building My First Gaming/Editing PC] (https://github.com/shatoriap/gamingpcsetup) <br>
+  - <b> [Building My First Gaming/Editing PC] (https://github.com/shatoriap/gamingpcsetup) </b><br>
     Setup process on Youtube (https://youtu.be/_RkuOBcwO_k) <br>
-   - [iPhone/Laptop/iPad Repairs] <br>
+   - <b> [iPhone/Laptop/iPad Repairs] </b><br>
 - <b>New Section</b>
   - [Project Name](Github documentation link)<br>
 
