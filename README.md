@@ -6,6 +6,7 @@
 - <b>Hardware and Software Installation</b>
   - [Building My First Gaming/Editing PC] (https://github.com/shatoriap/gamingpcsetup) <br>
     Setup process on Youtube (https://youtu.be/_RkuOBcwO_k) <br>
+   - [iPhone/Laptop/iPad Repairs] <br>
 - <b>New Section</b>
   - [Project Name](Github documentation link)<br>
 
