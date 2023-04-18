@@ -7,8 +7,8 @@
   - <b> [Building My First Gaming/Editing PC] (https://github.com/shatoriap/gamingpcsetup) </b><br>
     Setup process on Youtube (https://youtu.be/_RkuOBcwO_k) <br>
    - <b> [iPhone/Laptop/iPad Repairs] </b><br>
-- <b>Amazon Web Services</b>
-  - <b> [Building a static website using AWS] (https://github.com/shatoriap/aws-staticwebsitelab) <b><br>
+- <b>Cloud Computing</b>
+  - <b> [Building a static website using Amazon Web Services] (https://github.com/shatoriap/aws-staticwebsitelab) <b><br>
 
 
 <h2>📝 Certifications</h2>
