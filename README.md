@@ -4,10 +4,10 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Hardware and Software Installation</b>
-  - <b> [Building My First Gaming/Editing PC] (https://github.com/shatoriap/gamingpcsetup) </b><br>
+  - <b> Building My First Gaming/Editing PC (https://github.com/shatoriap/gamingpcsetup) </b><br>
     Setup process on Youtube (https://youtu.be/_RkuOBcwO_k) <br>
-   - <b> [iPhone/Laptop/iPad Repairs] </b><br>
-- <b>Cloud Computing</b>
+   - <b> iPhone/Laptop/iPad Repairs </b><br>
+- <b> Cloud Computing</b>
   - <b> [Building a static website using Amazon Web Services] (https://github.com/shatoriap/aws-staticwebsitelab) <b><br>
 
 
