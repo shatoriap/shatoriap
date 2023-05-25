@@ -1,21 +1,23 @@
 <h1>Hi, I'm Shatoria!</h1>
 <br>IT Support and Cybersecurity Professional<br>
 
-<h2>👨‍💻 IT Projects:</h2>
+<h2>👨‍💻 IT Projects</h2>
 
 - <b>Hardware and Software Installation</b>
   - <b> Building My First Gaming/Editing PC (https://github.com/shatoriap/gamingpcsetup) </b><br>
     Setup process on Youtube (https://youtu.be/_RkuOBcwO_k) <br>
    - <b> iPhone/Laptop/iPad Repairs </b><br>
 - <b> Cloud Computing</b>
-  - <b> [Building a static website using Amazon Web Services] (https://github.com/shatoriap/aws-staticwebsitelab) <b><br>
+  - <b> Building a static website using Amazon Web Services (https://github.com/shatoriap/aws-staticwebsitelab) <b><br>
 
 
 <h2>📝 Certifications</h2>
 - Bachelors of Science in Information Technology (Florida A&M University Class of 2020)
 <br>
-- Foundations of Data Science
+- IBM Foundations of Data Science
 <br>
+- FAMU FCCS Cybersecurity Certificate
+  <br>
 
 <h2> 🤳 Connect with me:</h2>
 
