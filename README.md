@@ -56,8 +56,7 @@
 - <b> Cloud Computing</b>
   - <b> Building a static website using Amazon Web Services (https://github.com/shatoriap/aws-staticwebsitelab) <b><br>
 - <b> Active Directory</b>
-  - <b> Active Directory homelab with Windows 10 Server (https://github.com/shatoriap/aws-staticwebsitelab) <b><br>
-
+  - <b> Active Directory homelab with Windows 10 Server (https://github.com/shatoriap/activedirectorysetup-lab) <b><br>
 
 <h2>📝 Certifications</h2>
 - Bachelors of Science in Information Technology (Florida A&M University Class of 2020)
