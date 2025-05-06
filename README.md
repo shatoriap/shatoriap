@@ -1,14 +1,16 @@
 <h1>Hi, I'm Shatoria!</h1>
 <br>IT Support and Cybersecurity Professional<br>
 
-<h2>👨‍💻 IT Projects</h2>
+<h2>👩🏽‍💻 IT Projects</h2>
 
 - <b>Hardware and Software Installation</b>
   - <b> Building My First Gaming/Editing PC (https://github.com/shatoriap/gamingpcsetup) </b><br>
-    Setup process on Youtube (https://youtu.be/_RkuOBcwO_k) <br>
+    Installation setup process on Youtube (edited by me!)(https://youtu.be/_RkuOBcwO_k) <br>
    - <b> iPhone/Laptop/iPad Repairs (https://github.com/shatoriap/itrepairs) </b><br>
 - <b> Cloud Computing</b>
   - <b> Building a static website using Amazon Web Services (https://github.com/shatoriap/aws-staticwebsitelab) <b><br>
+- <b> Active Directory</b>
+  - <b> Active Directory homelab with Windows 10 Server (https://github.com/shatoriap/aws-staticwebsitelab) <b><br>
 
 
 <h2>📝 Certifications</h2>
