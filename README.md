@@ -1,5 +1,8 @@
 <h1>Hi, I'm Shatoria!</h1>
-<h2>IT Support and Cybersecurity Professional</h2><br>
+<b>IT Support and Cybersecurity Professional</b>
+
+I work at the intersection of infrastructure and support—solving problems from the command line to the physical rack. I have hands-on experience in hardware/software troubleshooting, help desk support, AWS, and network administration. Skilled in writing technical documentation and supporting compliance/privacy standards. Passionate about delivering reliable IT solutions and improving user experiences.
+
 <br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
@@ -50,13 +53,14 @@
 <h2>👩🏽‍💻 IT Projects</h2>
 
 - <b>Hardware and Software Installation</b>
-  - <b> Building My First Gaming/Editing PC (https://github.com/shatoriap/gamingpcsetup) </b><br>
-    Installation setup process on Youtube (edited by me!)(https://youtu.be/_RkuOBcwO_k) <br>
-   - <b> iPhone/Laptop/iPad Repairs (https://github.com/shatoriap/itrepairs) </b><br>
+   - [Building My First Gaming/Editing PC](https://github.com/shatoriap/gamingpcsetup) (https://youtu.be/_RkuOBcwO_k)
+    <br> ** Video production and editing done by me! </br>
+   - [iPhone/Laptop/iPad Repairs and Troubleshooting freelance service](https://github.com/shatoriap/itrepairs)
+   
 - <b> Cloud Computing</b>
-  - <b> Building a static website using Amazon Web Services (https://github.com/shatoriap/aws-staticwebsitelab) <b><br>
+  - [Building a Hosted Static Website using Amazon Web Services](https://github.com/shatoriap/aws-staticwebsitelab)
 - <b> Active Directory</b>
-  - <b> Active Directory homelab with Windows 10 Server (https://github.com/shatoriap/activedirectorysetup-lab) <b><br>
+  - [Active Directory administrationg and configuration with Windows 10 Server and VMWare Pro Workstation](https://github.com/shatoriap/activedirectorysetup-lab)
 
 <h2>📝 Certifications</h2>
 - Bachelors of Science in Information Technology (Florida A&M University Class of 2020)
